@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,pornhub.com,AdultSites
 DOMAIN-SUFFIX,pornhubpremium.com,AdultSites
 DOMAIN-SUFFIX,xvideos.com,AdultSites
 DOMAIN-SUFFIX,xvideos.com,AdultSites
-host-keyword,porn.com,AdultSites
-host-keyword,xxx.com,AdultSites
-host-keyword,.sex, AdultSites
-host-keyword,.xxx, AdultSites
+host-keyword,porn,AdultSites
+host-keyword,xxx,AdultSites
+host-keyword,sex,AdultSites
+host-keyword,erkiss,AdultSites
